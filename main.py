@@ -20,7 +20,7 @@ time_spent = 'затраченных часов:1.5,'
 name_course = 'Курс: Python,'
 average_time ='среднее время выполнения',1.5/12, 'часа'
 print(name_course, home_work, time_spent, average_time)
-
+https://github.com/Oleg-alp/urban_pro/blob/master/main.py
 
 
 
